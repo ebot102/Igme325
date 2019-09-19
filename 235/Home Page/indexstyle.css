@@ -1,0 +1,90 @@
+body
+{
+    background-color: #3B5249;
+    color: #BEC5AD;
+}
+
+#bgcirc
+{
+  z-index: -1;
+  position: absolute;
+  margin-left: -20.58vw;
+  margin-top: -0.40vw;
+  height: 21vw;
+  width: 21vw;
+  background-color: #A4B494;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+p
+{
+text-align: center;
+position: absolute;
+ display: inline-block;
+ width: 30vw;
+ padding: 5em;
+
+}
+#profilePic
+{
+    display: inline-block;
+    margin-left: -35vw;
+    width: 20vw;
+    clip-path: circle(10vw at center);
+}
+h1
+{
+    font-size: 3em;
+    text-align: center;
+    color: #BEC5AD;
+}
+h2
+{
+    padding-top: 2em;
+}
+.desc
+{
+    text-align: center;
+    margin: auto;
+}
+.links
+{
+   text-align: center;
+   padding-top: 15px;
+}
+ul
+{
+display: inline-block;
+   list-style: none;
+   padding-left: 0%;
+}
+
+img
+{
+    width: 6em;
+}
+a:visited
+{
+    color: #BEC5AD;
+    text-decoration: none;
+}
+a:link
+{
+    text-decoration: none;
+}
+a:hover
+{
+    color: #34252F;
+}
+a:active
+{
+    color: #34252F;
+}
+
+/*
+*
+{
+     border:1px solid red;
+}
+*/
