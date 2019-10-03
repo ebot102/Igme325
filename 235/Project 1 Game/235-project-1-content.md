@@ -20,3 +20,10 @@ A great enemy has arisen, threatening all life on earth! Legend has foretold tha
   + 8-bit chip/ square wave music
 + #### Main Sounds During Gameplay: 
   + Background music, car engine noises, colllisions of cars
+### Controls
+  ##### Player 1
+  (W)-Accelerate (A)-Turn Left (D)-Turn Right (Space)-Boost
+  #### Player 2
+  (I)-Accelerate (J)-Turn Left (L)-Turn Right (Left Shift)-Boost
+### Player Onboarding
+  Player select screen will show controls for each player, when game is lauched a quick synposis of the story will be dispalyed, giving the player some background information
