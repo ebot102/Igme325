@@ -31,6 +31,6 @@ A great enemy has arisen, threatening all life on earth! Legend has foretold tha
 The player will need to balance using the boost offensively and defensively, as using an offensive boost and missing will result in a few seconds of being in a "stunned" state.
 
 ### Images
-##### Player Selection Screen
+##### Player Selection Screen Mockup
   ![alt text](https://github.com/ebot102/Igme325/blob/master/235/Project%201%20Game/Cars_Player%20Select.png?raw=true "Player Selection Screen")
   *Car sprites accessed from [HERE](https://www.kissclipart.com/pixel-art-cars-png-clipart-pixel-car-racer-sports-zsck3e/) and used solely for educational purposes*
