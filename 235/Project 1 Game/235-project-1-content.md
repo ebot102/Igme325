@@ -1,8 +1,8 @@
 # Project 1 Game Design Document
 ## Ethan Ruhl IGME 235
 
-### HIGH CONCEPT
-Players can race against the clock or another player locally and boost into eachother to try and knock them off the track. A highscore board will be kept in a text file and displayed on screen in the main menu.
+### High Concept
+Players can race against the clock or another player locally and boost into eachother to try and knock them off the track, however the boost will have a cooldown. The player will be able to bost a little by tapping the boost button without penalty, or they can hold to charge it for a greater boost. However, if they miss with a bigger boost, the player is "stunned" for a second before they can resume racing. A highscore board will be kept in a text file and displayed on screen in the main menu.
 
 ### Genre
 Racing, Retro Arcade
@@ -26,4 +26,6 @@ A great enemy has arisen, threatening all life on earth! Legend has foretold tha
   #### Player 2
   (I)-Accelerate (J)-Turn Left (L)-Turn Right (Left Shift)-Boost
 ### Player Onboarding
-  Player select screen will show controls for each player, when game is lauched a quick synposis of the story will be dispalyed, giving the player some background information
+  Player select screen will show controls for each player, when game is lauched a quick synposis of the story will be displayed, giving the player some background information
+### Player Learning
+The player will need to balance using the boost offensively and defensively, as using an offensive boost and missing will result in a few seconds of being in a "stunned" state.
