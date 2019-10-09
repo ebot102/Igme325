@@ -33,4 +33,9 @@ The player will need to balance using the boost offensively and defensively, as 
 ### Images
 ##### Player Selection Screen Mockup
   ![alt text](https://github.com/ebot102/Igme325/blob/master/235/Project%201%20Game/Cars_Player%20Select.png?raw=true "Player Selection Screen")
-  *Car sprites accessed from [HERE](https://www.kissclipart.com/pixel-art-cars-png-clipart-pixel-car-racer-sports-zsck3e/) and used solely for educational purposes*
+  *Car sprites accessed [HERE](https://www.kissclipart.com/pixel-art-cars-png-clipart-pixel-car-racer-sports-zsck3e/) and used solely for educational purposes*
+
+#### Main Track Mockup
+  ![alt text](https://github.com/ebot102/Igme325/blob/master/235/Project%201%20Game/Track_Mockup.png?raw=true "Player Selection Screen")
+  
+   *Background accessed [HERE](https://wall.alphacoders.com/big.php?i=900628) and used solely for educational purposes*
